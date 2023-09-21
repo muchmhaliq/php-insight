@@ -1,7 +1,7 @@
 {
 	"name"	: "muchmhaliq/phpinsight",
 	"type"	: "library",
-	"license"	: "MIT License",
+	"license"	: "MIT",
 	"authors"	: [
 		{
 			"name"	: "Code Solution Tech",
