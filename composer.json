@@ -10,7 +10,7 @@
 	],
 	"keywords"		: ["sentiment", "analysis", "insight", "Sentiment analysis", "php"],
 	"homepage"		: "https://github.com/muchmhaliq/phpinsight",
-	"description"	: "Sentiment analysis tool for PHP",
+	"description"	: "Sentiment analysis tool for PHP (Indonesia Language)",
 	"minimum-stability"	: "dev",
 	"autoload"	: {
 		"psr-4"		: {
