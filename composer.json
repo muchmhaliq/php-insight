@@ -1,0 +1,27 @@
+{
+	"name"	: "muchmhaliq/phpinsight",
+	"type"	: "library",
+	"license"	: "MIT License",
+	"authors"	: [
+		{
+			"name"	: "Code Solution Tech",
+			"email"	: "codesolution@protonmail.com"
+		}
+	],
+	"keywords"		: ["sentiment", "analysis", "insight", "Sentiment analysis", "php"],
+	"homepage"		: "https://github.com/muchmhaliq/phpinsight",
+	"description"	: "Sentiment analysis tool for PHP",
+	"minimum-stability"	: "dev",
+	"autoload"	: {
+		"psr-4"		: {
+			"PHPInsight\\"	: "lib/"
+		}
+	},
+	"config"	: {
+		"platform"	: {
+			"php"		: ">=7.4"
+		},
+		"optimize-autoloader"	: true
+	},
+	"prefer-stable"		: true
+}

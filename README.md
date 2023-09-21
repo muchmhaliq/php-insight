@@ -1,1 +1,1 @@
-# phpinsight
+# PHP Insight
