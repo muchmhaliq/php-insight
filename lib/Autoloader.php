@@ -21,7 +21,7 @@ class Autoloader {
 	 * @param bool $prepend Prepend the autoloader on the stack instead of appending it.
 	 */
 	public static function register($prepend = false) {
-		spl_autoload_register(array(new self, 'autoload'), true, $prepend);
+		spl_autoload_register(array(new self, "autoload"), true, $prepend);
 	}
 
 	/**
