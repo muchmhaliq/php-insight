@@ -1,6 +1,6 @@
-# PHP Insight
+# PHP Insight Sentiment Analysis
 ---------
-PHP Insight was carefully crafted to simplify the analysis of your code directly, and is the perfect starting point to analyze the code quality of your PHP projects.
+Sentiment analysis is the process of analyzing digital text to determine whether the emotional tone of the message is positive, negative, or neutral. Today, companies have large volumes of text data such as emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author's attitude toward a topic. Companies use insights from sentiment analysis to improve the quality of customer service and improve brand reputation.
 
 ### Installation
 ```bash
