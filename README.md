@@ -1,5 +1,6 @@
 # PHP Insight
 ---------
+PHP Insight was carefully crafted to simplify the analysis of your code directly, and is the perfect starting point to analyze the code quality of your PHP projects.
 
 ### Installation
 ```bash
